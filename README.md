@@ -45,6 +45,8 @@ And then in the metadata, there various other things recorded:
 
 * And an auto-filling box of author, and the created/updated dates for data record keeping.
 
+Current styling has the BoCC5 status as the background colour of the points. This can be changed by disabling that fill on the style, or setting it to white for readability.
+![An example map](Example.png)
 
 ### Legend
 
