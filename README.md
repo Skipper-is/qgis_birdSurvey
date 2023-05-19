@@ -47,6 +47,7 @@ And then in the metadata, there various other things recorded:
 
 Current styling has the BoCC5 status as the background colour of the points. This can be changed by disabling that fill on the style, or setting it to white for readability.
 ![An example map](Example.png)
+(The data used here is without a background map to preserve the confidentiality in the data)
 
 ### Legend
 
