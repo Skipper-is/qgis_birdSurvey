@@ -19,7 +19,15 @@ The form when you add a record allows you to set:
 
 * If it is calling
 
+* Alarm calls
+
 * If it is flying (and the direction, handy little spin wheel to choose the direction, it's not precise, so you may need to play with it)
+
+* The flight type - whether it's just flying over, or flushed from ground, or landing
+
+* Nesting - whether it is on a nest, and type of nest
+
+* Carrying nesting materials or food
 
 * Abundance
 
@@ -64,3 +72,4 @@ This project uses data from NBN Atlas.
 * A.J., Eaton, M.A., Aebischer, N.J., Balmer, D., Brown, A.F., Douse, A., Lindley, P., McCulloch, N., Noble, D.G. & Win, I. December 2021 . British Birds Volume: 114,  [The fifth Birds of Conservation Concern in the United Kingdom, Channel Islands and Isle of Man (BoCC5) December 2021](https://registry.nbnatlas.org/public/show/dr2635 "view Data Resource page")
 * Stroud, R. 2020 [Birds Directive - Annex 1](https://registry.nbnatlas.org/public/show/dr523 "view Data Resource page")
 * BTO, Bird codes [Codes and survey instructions available here](https://www.bto.org/our-science/projects/bbs/taking-part/download-forms-instructions)
+* Bird Survey Guidelines, Behavioral notations [Additional flight and vocalisation symbology](https://birdsurveyguidelines.org/data/behavioural-notations/)
